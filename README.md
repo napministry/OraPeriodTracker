@@ -1,2 +1,2 @@
 # OraPeriodTracker
-Software Engineering II: A period tracker developed for my software engineering class
+Software Engineering II: A period tracker developed during Software Engineering II
